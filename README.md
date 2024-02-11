@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm Victor, a 27 years old technology enthusiast and psychology student from Brazil!
+
 
 
 <!--
